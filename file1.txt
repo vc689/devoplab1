@@ -1,2 +1,0 @@
- this is a test.
- trynna use github for devops la
